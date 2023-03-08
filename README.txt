@@ -7,7 +7,7 @@ INPUT
 Place the pdfs files as input in the folder -> data/input_psg_reports
 
 OUTPUT
-The output will be given as a a single Excel table containing all the information found on each Noxturnal report,
+The output will be given as a single Excel table containing all the information found on each Noxturnal report,
 each row is a different de-identified subject and the columns contain the data present in the Noxturnal report
 
 CONFIGURATION
